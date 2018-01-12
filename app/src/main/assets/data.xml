@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<poets>
+    <poet>
+        <name>Fernando Pessoa</name>
+        <life>Lisboa, 13 de junho de 1888 - Lisboa, 30 de novembro de 1935</life>
+        <poem>Mensagem</poem>
+    </poet>
+    <poet>
+        <name>Alberto Caeiro</name>
+        <life>Lisboa, 16 de Abril de 1889 ou Agosto de 1887 – Junho de 1915</life>
+        <poem>O Guardador de Rebanhos</poem>
+    </poet>
+
+    <poet>
+        <name>Álvaro de Campos</name>
+        <life>Tavira ou Lisboa, 13 ou 15 de Outubro de 1890 - 1935</life>
+        <poem>Tabacaria</poem>
+    </poet>
+
+    <poet>
+        <name>Ricardo Reis</name>
+        <life>19 de setembro de 1887 - 1936</life>
+        <poem>Tenho Mais Almas que Uma</poem>
+    </poet>
+
+    <poet>
+        <name>Bernardo Soares</name>
+        <life>Não disponível</life>
+        <poem>Livro do Desassossego</poem>
+    </poet>
+</poets>
